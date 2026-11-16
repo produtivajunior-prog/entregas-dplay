@@ -1,0 +1,12 @@
+{
+  "name": "entregas-dplay",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Site de entregas do projeto de Estruturação Comercial da DPlay Solutions, organizado por frente.",
+  "scripts": {
+    "start": "node server.mjs",
+    "indice": "node scripts/indice.mjs",
+    "capas": "swift scripts/capas.swift && node scripts/capas-html.mjs"
+  }
+}

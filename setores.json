@@ -1,0 +1,42 @@
+[
+  {
+    "id": "processo",
+    "nome": "Processo Comercial",
+    "nomeCurto": "Processo",
+    "icone": "fluxo",
+    "descricao": "A jornada comercial da DPlay, do primeiro contato ao pós-venda, com os fluxogramas do processo atual e do proposto."
+  },
+  {
+    "id": "prospeccao",
+    "nome": "Prospecção e Vendas",
+    "nomeCurto": "Vendas",
+    "icone": "maleta",
+    "descricao": "Roteiro de abordagem, respostas às objeções e o treinamento do time comercial."
+  },
+  {
+    "id": "marketing",
+    "nome": "Marketing",
+    "icone": "megafone",
+    "descricao": "Segmentos com potencial para a DPlay e a apresentação institucional da empresa."
+  },
+  {
+    "id": "crm",
+    "nome": "CRM e Automação",
+    "nomeCurto": "CRM",
+    "icone": "robo",
+    "descricao": "O CRM da DPlay, o manual de uso e o time de agentes de IA para a rotina comercial.",
+    "destaque": {
+      "rota": "sistema",
+      "titulo": "CRM DPlay Solutions",
+      "texto": "Sistema desenvolvido pela Produtiva que reúne leads, cadência de contato, ferramentas comerciais e pesquisas de satisfação em um só lugar.",
+      "botao": "Ver apresentação"
+    }
+  },
+  {
+    "id": "sucesso",
+    "nome": "Sucesso do Cliente",
+    "nomeCurto": "Sucesso do Cliente",
+    "icone": "coracao",
+    "descricao": "Como medir a satisfação dos clientes e os modelos das reuniões de satisfação e de encerramento."
+  }
+]

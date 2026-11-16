@@ -1,0 +1,81 @@
+{
+  "processo/[Dplay] Jornada Comercial TO BE.pdf": {
+    "ordem": 1,
+    "titulo": "Jornada Comercial (TO BE)",
+    "descricao": "Descreve a experiência que a DPlay quer oferecer ao cliente com o novo processo. Começa pelo perfil do cliente ideal e segue as 10 etapas da jornada: identificar o lead, fazer a abordagem inicial, agendar a reunião, diagnosticar o negócio, construir a solução e o preço, apresentar a proposta, negociar, formalizar a contratação, desenvolver e validar a solução e manter o relacionamento depois da entrega."
+  },
+  "processo/Mapeamentos/Processo Comercial TO BE.png": {
+    "anexoDe": "processo/[Dplay] Jornada Comercial TO BE.pdf",
+    "rotulo": "Processo proposto (TO BE)",
+    "descricao": "Fluxograma (BPMN) do processo comercial proposto: o lead é registrado no CRM, recebe até quatro mensagens de acompanhamento (a última é o break-up) quando não responde, passa pelo diagnóstico, que atualiza o CRM, e segue para proposta, negociação, dados cadastrais e contrato."
+  },
+  "processo/Mapeamentos/Processo Comercial AS IS.png": {
+    "anexoDe": "processo/[Dplay] Jornada Comercial TO BE.pdf",
+    "rotulo": "Processo atual (AS IS)",
+    "descricao": "Fluxograma (BPMN) de como o processo comercial funcionava antes do projeto, em três fases: prospecção (pesquisar o negócio, entrar em contato e marcar a reunião), diagnóstico (solução, custos, preço e proposta) e proposta (apresentação, negociação e contrato). Serviu de ponto de partida para o processo proposto."
+  },
+
+  "prospeccao/[Dplay] Roteiro de Abordagem.pdf": {
+    "ordem": 1,
+    "titulo": "Roteiro de Abordagem",
+    "descricao": "Guia para as ligações e conversas pelo WhatsApp, do primeiro contato até o convite para a reunião de diagnóstico. A ligação tem seis etapas, cada uma com orientação e mensagem modelo: apresentação, início da conversa, identificação da necessidade, conexão com a DPlay, convite para a reunião e registro no CRM. Inclui a sequência de follow-up pelo WhatsApp, com quatro mensagens até o break-up."
+  },
+  "prospeccao/Matriz de Objeções [DPlay].pdf": {
+    "ordem": 2,
+    "titulo": "Matriz de Objeções",
+    "descricao": "Reúne 34 objeções comuns nas vendas da DPlay, como “sem tempo”, “já tenho sistema”, “personalizado deve ser caro”, “valor elevado” e “e a segurança dos meus dados?”, cada uma com a forma de responder. As objeções estão marcadas pelo momento em que costumam aparecer: na qualificação, na proposta ou nos dois."
+  },
+  "prospeccao/Treinamento Comercial Dplay.pdf": {
+    "ordem": 3,
+    "titulo": "Treinamento Comercial",
+    "descricao": "Apresentação usada no treinamento do time comercial. Explica a diferença entre vendas B2B e B2C e entre inbound e outbound, as fases do processo (inteligência comercial, pré-qualificação, qualificação e proposta), os métodos BANT, SPIN e GPCTBA C&I, rapport, gatilhos mentais, contorno de objeções, negociação, tráfego pago e indicadores."
+  },
+
+  "marketing/Dplay Relatório de Marketing por Segmento.pdf": {
+    "ordem": 1,
+    "titulo": "Relatório de Marketing por Segmento",
+    "descricao": "Analisa dez segmentos com potencial para a DPlay, entre eles clínicas de estética e de saúde, barbearias, restaurantes, imobiliárias, hotéis, academias, escritórios de advocacia, pet shops e corretoras de seguros. Para cada um, explica por que vale a pena, como abordar os gestores e que ações de marketing podem atrair clientes. Abre com o perfil do cliente ideal."
+  },
+  "marketing/DPlay Apresentação Institucional 2026.html": {
+    "ordem": 2,
+    "titulo": "Apresentação Institucional 2026",
+    "descricao": "Apresentação da DPlay Solutions para usar com clientes e parceiros, com o posicionamento “Transformamos ideias em experiências digitais”. Abre como página no navegador."
+  },
+
+  "crm/Manual CRM [DPlay Solutions].pdf": {
+    "ordem": 1,
+    "titulo": "Manual de Utilização do CRM",
+    "descricao": "Passo a passo do CRM da DPlay: login, menu, quadros Kanban de leads, cadastro de um novo lead, fluxo de cadência com mensagens automáticas, ferramentas comerciais, banco de leads com importação e pesquisas de satisfação. Mostra também o dashboard e os gráficos do administrador e termina com boas práticas de uso."
+  },
+  "crm/Prompt Squad Comercial.pdf": {
+    "ordem": 2,
+    "titulo": "Prompt do Time Comercial de Agentes (IA)",
+    "descricao": "Instrução completa para montar, no Claude Code, um time de agentes de inteligência artificial que apoia a prospecção, a qualificação, o registro no CRM e a rotina comercial até o contrato. Traz a etapa de descoberta, as ferramentas necessárias com um plano B para cada uma e a forma de trabalho dos agentes."
+  },
+
+  "sucesso/Dplay Relatório Coleta de Satisfação.pdf": {
+    "ordem": 1,
+    "titulo": "Relatório de Coleta de Satisfação",
+    "descricao": "Define como a DPlay vai medir a satisfação dos clientes com dois indicadores: o CSAT, aplicado depois de entregas importantes (protótipo aprovado, site publicado, automação em operação), e o NPS, aplicado no encerramento. Traz as perguntas, como classificar as notas e como analisar os resultados quando há poucos projetos no mês."
+  },
+  "sucesso/Reunião de Coleta de Satisfação.pdf": {
+    "ordem": 2,
+    "titulo": "Modelo – Reunião de Coleta de Satisfação",
+    "descricao": "Apresentação modelo para a reunião de satisfação durante o projeto: alinhamentos iniciais, escopo, perguntas de satisfação (comunicação, andamento e qualidade), NPS, plano de indicações e feedback aberto. Basta preencher o nome do cliente e as etapas."
+  },
+  "sucesso/Editaveis/Reunião de Coleta de Satisfação (editável).html": {
+    "anexoDe": "sucesso/Reunião de Coleta de Satisfação.pdf",
+    "rotulo": "Versão editável",
+    "descricao": "A mesma apresentação em formato de página, para editar os textos direto no navegador antes da reunião."
+  },
+  "sucesso/Reunião de Alinhamento Final.pdf": {
+    "ordem": 3,
+    "titulo": "Modelo – Reunião de Alinhamento Final",
+    "descricao": "Apresentação modelo para o encerramento do projeto: escopo e etapas concluídas, sistema das entregas, outros serviços da DPlay, plano de indicações e a pesquisa final de satisfação, com as notas de qualidade, facilidade de uso, comunicação, impacto e NPS."
+  },
+  "sucesso/Editaveis/Reunião de Alinhamento Final (editável).html": {
+    "anexoDe": "sucesso/Reunião de Alinhamento Final.pdf",
+    "rotulo": "Versão editável",
+    "descricao": "A mesma apresentação em formato de página, para editar os textos direto no navegador antes da reunião."
+  }
+}
