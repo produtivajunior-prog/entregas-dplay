@@ -11,7 +11,7 @@ import { gerarIndice, lerSetores, RAIZ } from './scripts/indice.mjs';
 const PORTA = Number(process.env.PORT) || 3000;
 const HOST = process.env.HOST || '127.0.0.1';
 const LIMITE_UPLOAD = 1024 ** 3; // 1 GB por arquivo
-const PUBLICOS = new Set(['index.html', 'setores.json', 'favicon.png', 'assets', 'entregas', 'capas']);
+const PUBLICOS = new Set(['index.html', 'setores.json', 'favicon.png', 'favicon.ico', 'apple-touch-icon.png', 'assets', 'entregas', 'capas']);
 
 const TIPOS = {
   '.html': 'text/html; charset=utf-8', '.css': 'text/css; charset=utf-8', '.js': 'text/javascript; charset=utf-8',
