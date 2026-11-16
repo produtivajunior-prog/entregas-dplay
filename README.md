@@ -67,3 +67,9 @@ e publique a pasta inteira. Rode o comando de novo sempre que adicionar arquivos
 index.html · setores.json · server.mjs · scripts/indice.mjs
 assets/ (css, js, img)   entregas/<frente>/ (arquivos anexados)
 ```
+
+## Site publicado
+- Endereço: **https://entregas-dplay.vercel.app** (projeto `entregas-dplay` na Vercel, ligado a este repositório).
+- Toda alteração enviada para a branch `main` atualiza o site sozinha.
+- `vercel.json` diz à Vercel que o site é estático (sem etapa de build). `.vercelignore` deixa de fora o servidor local e os scripts, que só servem no computador.
+- Depois de adicionar ou trocar arquivos em `entregas/`, rode `npm run indice` (atualiza `entregas.json`) e gere as capas antes de enviar.
