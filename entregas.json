@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-16T18:26:24.672Z",
+  "geradoEm": "2026-11-16T18:55:06.826Z",
   "setores": {
     "processo": [
       {
@@ -91,8 +91,8 @@
       {
         "nome": "Manual CRM [DPlay Solutions].pdf",
         "grupo": "",
-        "tamanho": 2803346,
-        "modificado": "2026-11-16T18:22:46.842Z",
+        "tamanho": 2759396,
+        "modificado": "2026-11-16T18:55:06.735Z",
         "capa": "capas/crm/Manual CRM [DPlay Solutions].jpg",
         "titulo": "Manual de Utilização do CRM",
         "ordem": 1,
