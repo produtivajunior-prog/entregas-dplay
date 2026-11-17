@@ -14,7 +14,6 @@
     "rotulo": "Processo atual (AS IS)",
     "descricao": "Fluxograma (BPMN) de como o processo comercial funcionava antes do projeto, em três fases: prospecção (pesquisar o negócio, entrar em contato e marcar a reunião), diagnóstico (solução, custos, preço e proposta) e proposta (apresentação, negociação e contrato). Serviu de ponto de partida para o processo proposto."
   },
-
   "prospeccao/[Dplay] Roteiro de Abordagem.pdf": {
     "ordem": 1,
     "titulo": "Roteiro de Abordagem",
@@ -30,18 +29,21 @@
     "titulo": "Treinamento Comercial",
     "descricao": "Apresentação usada no treinamento do time comercial. Explica a diferença entre vendas B2B e B2C e entre inbound e outbound, as fases do processo (inteligência comercial, pré-qualificação, qualificação e proposta), os métodos BANT, SPIN e GPCTBA C&I, rapport, gatilhos mentais, contorno de objeções, negociação, tráfego pago e indicadores."
   },
-
   "marketing/Dplay Relatório de Marketing por Segmento.pdf": {
     "ordem": 1,
     "titulo": "Relatório de Marketing por Segmento",
     "descricao": "Analisa dez segmentos com potencial para a DPlay, entre eles clínicas de estética e de saúde, barbearias, restaurantes, imobiliárias, hotéis, academias, escritórios de advocacia, pet shops e corretoras de seguros. Para cada um, explica por que vale a pena, como abordar os gestores e que ações de marketing podem atrair clientes. Abre com o perfil do cliente ideal."
   },
-  "marketing/DPlay Apresentação Institucional 2026.html": {
+  "marketing/Dplay Estratégias Canais de Tração.pdf": {
     "ordem": 2,
+    "titulo": "Estratégias de Canais de Tração",
+    "descricao": "Aplica o Bullseye Framework para descobrir por onde a DPlay consegue atrair mais clientes: testar vários canais de forma organizada e concentrar esforço no que trouxer melhor resultado. Para cada canal, explica como estruturar a ação: SEO, marketing de conteúdo, tráfego pago, Claude MCP, marketing viral, planos de indicação, desenvolvimento de negócios, vendas diretas e feiras e eventos, com uma lista de eventos em Natal e João Pessoa."
+  },
+  "marketing/DPlay Apresentação Institucional 2026.html": {
+    "ordem": 3,
     "titulo": "Apresentação Institucional 2026",
     "descricao": "Apresentação da DPlay Solutions para usar com clientes e parceiros, com o posicionamento “Transformamos ideias em experiências digitais”. Abre como página no navegador."
   },
-
   "crm/Manual CRM [DPlay Solutions].pdf": {
     "ordem": 1,
     "titulo": "Manual de Utilização do CRM",
@@ -52,7 +54,6 @@
     "titulo": "Prompt do Time Comercial de Agentes (IA)",
     "descricao": "Instrução completa para montar, no Claude Code, um time de agentes de inteligência artificial que apoia a prospecção, a qualificação, o registro no CRM e a rotina comercial até o contrato. Traz a etapa de descoberta, as ferramentas necessárias com um plano B para cada uma e a forma de trabalho dos agentes."
   },
-
   "sucesso/Dplay Relatório Coleta de Satisfação.pdf": {
     "ordem": 1,
     "titulo": "Relatório de Coleta de Satisfação",

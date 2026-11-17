@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-16T18:55:06.826Z",
+  "geradoEm": "2026-11-17T11:55:03.667Z",
   "setores": {
     "processo": [
       {
@@ -73,8 +73,18 @@
         "modificado": "2026-11-16T18:22:46.839Z",
         "capa": "capas/marketing/DPlay Apresentação Institucional 2026.jpg",
         "titulo": "Apresentação Institucional 2026",
-        "ordem": 2,
+        "ordem": 3,
         "descricao": "Apresentação da DPlay Solutions para usar com clientes e parceiros, com o posicionamento “Transformamos ideias em experiências digitais”. Abre como página no navegador."
+      },
+      {
+        "nome": "Dplay Estratégias Canais de Tração.pdf",
+        "grupo": "",
+        "tamanho": 915449,
+        "modificado": "2026-11-17T11:55:03.284Z",
+        "capa": "capas/marketing/Dplay Estratégias Canais de Tração.jpg",
+        "titulo": "Estratégias de Canais de Tração",
+        "ordem": 2,
+        "descricao": "Aplica o Bullseye Framework para descobrir por onde a DPlay consegue atrair mais clientes: testar vários canais de forma organizada e concentrar esforço no que trouxer melhor resultado. Para cada canal, explica como estruturar a ação: SEO, marketing de conteúdo, tráfego pago, Claude MCP, marketing viral, planos de indicação, desenvolvimento de negócios, vendas diretas e feiras e eventos, com uma lista de eventos em Natal e João Pessoa."
       },
       {
         "nome": "Dplay Relatório de Marketing por Segmento.pdf",

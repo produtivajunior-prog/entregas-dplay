@@ -121,7 +121,7 @@
   const IMPACTO_SETORES = {
     processo: 'O processo comercial que existia (AS IS) foi mapeado e redesenhado (TO BE) em 10 etapas, do lead ao relacionamento depois da entrega. O novo fluxo registra tudo no CRM, cria uma sequência de mensagens para quem não responde e liga o diagnóstico à proposta.',
     prospeccao: 'O time comercial ganhou um roteiro de ligação em seis etapas, quatro mensagens de follow-up pelo WhatsApp, respostas para 34 objeções e um treinamento sobre qualificação (BANT e SPIN), negociação e tráfego pago.',
-    marketing: 'Dez segmentos analisados, cada um com o motivo do interesse, a forma de abordar e ideias de marketing, além do perfil do cliente ideal. A apresentação institucional 2026 padroniza como a DPlay se mostra ao mercado.',
+    marketing: 'Dez segmentos analisados, cada um com o motivo do interesse, a forma de abordar e ideias de marketing, e canais de tração organizados pelo Bullseye Framework, de SEO e conteúdo a indicações e eventos. A apresentação institucional 2026 padroniza como a DPlay se mostra ao mercado.',
     crm: 'O CRM reúne leads, cadência com mensagens automáticas, ferramentas comerciais e pesquisas de satisfação, com dashboard para o administrador. O manual ensina cada tela, e o prompt do time de agentes de IA amplia a capacidade de prospecção.',
     sucesso: 'A satisfação passa a ser medida com CSAT nas entregas e NPS no encerramento. Os modelos de reunião, em PDF e em versão editável, já trazem as perguntas, o plano de indicações e o espaço para feedback.',
   };
@@ -171,7 +171,7 @@
             <ul class="produtiva__itens produtiva__itens--cartoes">
               <li><strong>Um processo comercial desenhado.</strong> A jornada e os fluxogramas mostram cada etapa, do primeiro contato ao pós-venda, e o que muda em relação ao processo anterior.</li>
               <li><strong>Abordagem padronizada, sem perder o tom consultivo.</strong> Roteiro de ligação, mensagens de follow-up e respostas para 34 objeções dão segurança a quem vende.</li>
-              <li><strong>Foco onde há mais chance de venda.</strong> O relatório por segmento e o perfil do cliente ideal orientam a prospecção e o marketing.</li>
+              <li><strong>Foco onde há mais chance de venda.</strong> O relatório por segmento, os canais de tração e o perfil do cliente ideal orientam a prospecção e o marketing.</li>
               <li><strong>Tudo registrado no CRM.</strong> Leads, cadência, ferramentas comerciais e pesquisas ficam no mesmo sistema, com indicadores para decidir.</li>
               <li><strong>Satisfação medida e transformada em indicação.</strong> CSAT, NPS e modelos de reunião com plano de indicações fecham o ciclo com o cliente.</li>
             </ul>
